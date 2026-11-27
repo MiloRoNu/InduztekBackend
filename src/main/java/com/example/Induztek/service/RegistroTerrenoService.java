@@ -286,7 +286,7 @@ public class RegistroTerrenoService {
                 reg.isArchived(),
                 items,
                 testDto,
-                reg.getGeneralObservations()
+                null
         );
     }
 
